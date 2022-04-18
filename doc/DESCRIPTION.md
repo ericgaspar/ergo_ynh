@@ -1,9 +1,9 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ergo (formerly known as Oragono) is a modern IRC server written in Go. Its core design 
 
 ### Features
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+- Being simple to set up and use
+- Combining the features of an ircd, a services framework, and a bouncer (integrated account management, history storage, and bouncer functionality)
+- Bleeding-edge IRCv3 support, suitable for use as an IRCv3 reference implementation
+- High customizability via a rehashable (i.e., reloadable at runtime) YAML config
+
